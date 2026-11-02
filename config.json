@@ -1,0 +1,6 @@
+{
+ "payments_live": false,
+ "stripe_portal_url": "",
+ "afterpay_max_aud": 4000,
+ "zip_pay_max_aud": 1000
+}
