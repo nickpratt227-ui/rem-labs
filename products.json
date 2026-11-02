@@ -1,0 +1,302 @@
+[
+ {
+  "sku": "B04",
+  "slug": "b04",
+  "rank": 1,
+  "category": "Bands",
+  "title": "QuickFit 22 Silicone Band",
+  "compatible_with": "Garmin Fenix 5/6/7/8 47mm, Forerunner 935/945/955/965, Epix Gen 2, Instinct 2",
+  "price_aud": 29.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B18",
+  "slug": "b18",
+  "rank": 2,
+  "category": "Bands",
+  "title": "5-pack Elastic Solo Loop 20mm",
+  "compatible_with": "Garmin/Samsung 20mm",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B09",
+  "slug": "b09",
+  "rank": 3,
+  "category": "Bands",
+  "title": "Nylon Loop Band 20/22mm quick release",
+  "compatible_with": "Samsung Galaxy Watch 4/5/6/7/FE (20mm), Garmin Venu 2/3 (22mm), Amazfit, Huawei 20/22mm",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B07",
+  "slug": "b07",
+  "rank": 4,
+  "category": "Bands",
+  "title": "Silicone Sport Band",
+  "compatible_with": "Apple Watch 41/45/46mm",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B03",
+  "slug": "b03",
+  "rank": 5,
+  "category": "Bands",
+  "title": "Silicone Sport Band 3-pack 20mm",
+  "compatible_with": "Garmin Forerunner 55/165/245/645, Vivoactive 3/5/6, Venu Sq/Sq2",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B25",
+  "slug": "b25",
+  "rank": 6,
+  "category": "Bands",
+  "title": "22mm Nylon Sport Loop",
+  "compatible_with": "Coros Pace 3 / Pace 4 / Pace Pro / Apex Pro / Apex 2 Pro / Apex 46mm",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B27",
+  "slug": "b27",
+  "rank": 7,
+  "category": "Bands",
+  "title": "22mm Silicone Sport Band",
+  "compatible_with": "Suunto Race / Race S / Race 2 / Vertical / 9 Peak / 9 Peak Pro / 5 Peak / Ocean / Run (not Suunto 9/9 Baro, 24mm)",
+  "price_aud": 29.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B24",
+  "slug": "b24",
+  "rank": 8,
+  "category": "Bands",
+  "title": "Nylon Sport Loop",
+  "compatible_with": "Apple Watch 44/45/46/49mm",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B01",
+  "slug": "b01",
+  "rank": 9,
+  "category": "Bands",
+  "title": "Nylon Loop Band 2-pack",
+  "compatible_with": "Fitbit Charge 6 / Charge 5",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B02",
+  "slug": "b02",
+  "rank": 10,
+  "category": "Bands",
+  "title": "Silicone Sport Band",
+  "compatible_with": "Fitbit Charge 6 / Charge 5",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B28",
+  "slug": "b28",
+  "rank": 11,
+  "category": "Bands",
+  "title": "22mm Nylon Loop Band",
+  "compatible_with": "Amazfit GTR 2/3/4 / GTR 47mm / Balance / Balance 2 / Bip 5 / Bip 6 / Active Max / Cheetah",
+  "price_aud": 14.99,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B29",
+  "slug": "b29",
+  "rank": 12,
+  "category": "Bands",
+  "title": "20mm Nylon Loop Band",
+  "compatible_with": "Amazfit GTS 2/3/4 / GTS 4 Mini / GTR Mini / Active / Active 2 / Bip U / Bip 3",
+  "price_aud": 14.99,
+  "stripe_link": ""
+ },
+ {
+  "sku": "S03",
+  "slug": "s03",
+  "rank": 13,
+  "category": "Scales",
+  "title": "8-electrode segmental body-composition smart scale with handle (arms/legs/trunk fat & muscle readouts, Bluetooth app)",
+  "compatible_with": "",
+  "price_aud": 99.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "Z01",
+  "slug": "z01",
+  "rank": 14,
+  "category": "Sleep",
+  "title": "3D contoured blackout sleep mask",
+  "compatible_with": "",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "Z02",
+  "slug": "z02",
+  "rank": 15,
+  "category": "Sleep",
+  "title": "Mouth tape 60-pack",
+  "compatible_with": "",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B16",
+  "slug": "b16",
+  "rank": 16,
+  "category": "Bands",
+  "title": "18mm Silicone Band",
+  "compatible_with": "Garmin Venu 2S/3S, Vivoactive 4S, Forerunner 255S/265S",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B17",
+  "slug": "b17",
+  "rank": 17,
+  "category": "Bands",
+  "title": "20mm Magnetic Braided Band",
+  "compatible_with": "Garmin Vivoactive 5/6, Venu Sq 2, Forerunner 165/245",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B08",
+  "slug": "b08",
+  "rank": 18,
+  "category": "Bands",
+  "title": "Magnetic Braided Solo Loop",
+  "compatible_with": "Apple Watch 41/45/46/49mm",
+  "price_aud": 29.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B10",
+  "slug": "b10",
+  "rank": 19,
+  "category": "Bands",
+  "title": "Silicone Sport Band",
+  "compatible_with": "Xiaomi Smart Band 10 / 9",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B15",
+  "slug": "b15",
+  "rank": 20,
+  "category": "Bands",
+  "title": "Silicone Band",
+  "compatible_with": "Fitbit Inspire 3",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B19",
+  "slug": "b19",
+  "rank": 21,
+  "category": "Bands",
+  "title": "Silicone Band",
+  "compatible_with": "Samsung Galaxy Fit 3",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B21",
+  "slug": "b21",
+  "rank": 22,
+  "category": "Bands",
+  "title": "Silicone Band",
+  "compatible_with": "Xiaomi Redmi Watch 5 Active",
+  "price_aud": 14.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "S02",
+  "slug": "s02",
+  "rank": 23,
+  "category": "Scales",
+  "title": "Basic digital/body-fat scale",
+  "compatible_with": "",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "S04",
+  "slug": "s04",
+  "rank": 24,
+  "category": "Scales",
+  "title": "8-electrode handle-less segmental scale (budget, VA colour display)",
+  "compatible_with": "",
+  "price_aud": 79.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B06",
+  "slug": "b06",
+  "rank": 25,
+  "category": "Bands",
+  "title": "Sport Band with clasp",
+  "compatible_with": "Whoop 4.0",
+  "price_aud": 29.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B22",
+  "slug": "b22",
+  "rank": 26,
+  "category": "Bands",
+  "title": "Knit/Nylon Band",
+  "compatible_with": "Whoop 5.0 / MG",
+  "price_aud": 29.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B13",
+  "slug": "b13",
+  "rank": 27,
+  "category": "Bands",
+  "title": "Silicone Band",
+  "compatible_with": "Fitbit Versa 4/3, Sense 2/Sense",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "B20",
+  "slug": "b20",
+  "rank": 28,
+  "category": "Bands",
+  "title": "Nylon Band",
+  "compatible_with": "Amazfit Helio Strap",
+  "price_aud": 24.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "R02",
+  "slug": "r02",
+  "rank": 29,
+  "category": "Recovery",
+  "title": "Acupressure mat + pillow",
+  "compatible_with": "",
+  "price_aud": 44.95,
+  "stripe_link": ""
+ },
+ {
+  "sku": "Z03",
+  "slug": "z03",
+  "rank": 30,
+  "category": "Sleep",
+  "title": "Mouth tape 100-pack",
+  "compatible_with": "",
+  "price_aud": 19.95,
+  "stripe_link": ""
+ }
+]
