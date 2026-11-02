@@ -23,7 +23,9 @@
 "sources": "Solar-dried sea water.",
 "brands": [],
 "systems": [
-"heart"
+"heart",
+"muscle",
+"nerve"
 ],
 "forms": "Natural grain or fine grind",
 "img": "assets/ing/baja-gold-salt.jpg",
@@ -75,7 +77,10 @@
 "Tmrw"
 ],
 "systems": [
-"bone"
+"bone",
+"muscle",
+"heart",
+"nerve"
 ],
 "forms": "Citrate, carbonate, phosphate",
 "img": "assets/ing/calcium.jpg",
@@ -91,7 +96,9 @@
 "sources": "Hand-harvested sea water.",
 "brands": [],
 "systems": [
-"heart"
+"heart",
+"muscle",
+"nerve"
 ],
 "forms": "Coarse light grey, fine ground",
 "img": "assets/ing/celtic-sea-salt.jpg",
@@ -109,7 +116,8 @@
 "Tmrw"
 ],
 "systems": [
-"nerve"
+"nerve",
+"gut"
 ],
 "forms": "Choline bitartrate",
 "img": "assets/ing/choline.jpg",
@@ -142,7 +150,10 @@
 "brands": [
 "Tmrw"
 ],
-"systems": [],
+"systems": [
+"nerve",
+"bone"
+],
 "forms": "Citrate, gluconate",
 "img": "assets/ing/copper.jpg",
 "iherb_url": "https://au.iherb.com/pr/thorne-copper-bisglycinate-60-capsules-2-mg-per-capsule/52665?rcode=OBM3244",
@@ -159,7 +170,8 @@
 "Tmrw"
 ],
 "systems": [
-"heart"
+"heart",
+"muscle"
 ],
 "forms": "Ubiquinone, ubiquinol",
 "img": "assets/ing/coq10.jpg",
@@ -175,7 +187,8 @@
 "sources": "Red meat, fish; the body also makes it.",
 "brands": [],
 "systems": [
-"muscle"
+"muscle",
+"nerve"
 ],
 "forms": "Creatine monohydrate powder",
 "img": "assets/ing/creatine.jpg",
@@ -208,7 +221,9 @@
 "brands": [
 "Tmrw"
 ],
-"systems": [],
+"systems": [
+"nerve"
+],
 "forms": "Folic acid, 5-MTHF (methylfolate)",
 "img": "assets/ing/folate.jpg",
 "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-methyl-folate-and-vitamin-c-120-veggie-capsules/96310?rcode=OBM3244",
@@ -225,7 +240,8 @@
 "Tmrw"
 ],
 "systems": [
-"bone"
+"bone",
+"nerve"
 ],
 "forms": "Free-form powder",
 "img": "assets/ing/glycine.jpg",
@@ -260,7 +276,9 @@
 ],
 "systems": [
 "bone",
-"muscle"
+"muscle",
+"nerve",
+"heart"
 ],
 "forms": "Glycinate, citrate, malate, oxide",
 "img": "assets/ing/magnesium.jpg",
@@ -308,7 +326,8 @@
 "Tmrw"
 ],
 "systems": [
-"nerve"
+"nerve",
+"heart"
 ],
 "forms": "Fish oil, krill oil, algae oil",
 "img": "assets/ing/omega-3.jpg",
@@ -327,7 +346,8 @@
 ],
 "systems": [
 "muscle",
-"heart"
+"heart",
+"nerve"
 ],
 "forms": "Citrate, phosphate, chloride",
 "img": "assets/ing/potassium.jpg",
@@ -461,7 +481,8 @@
 "Tmrw"
 ],
 "systems": [
-"nerve"
+"nerve",
+"heart"
 ],
 "forms": "Thiamine HCl, benfotiamine",
 "img": "assets/ing/thiamin.jpg",
@@ -530,7 +551,9 @@
 "brands": [
 "Tmrw"
 ],
-"systems": [],
+"systems": [
+"bone"
+],
 "forms": "Ascorbic acid, sodium ascorbate",
 "img": "assets/ing/vitamin-c.jpg",
 "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-gold-c-usp-grade-vitamin-c-1-000-mg-60-veggie-capsules/61864?rcode=OBM3244",
@@ -547,7 +570,8 @@
 "Tmrw"
 ],
 "systems": [
-"bone"
+"bone",
+"muscle"
 ],
 "forms": "Cholecalciferol (animal or lichen/algae source)",
 "img": "assets/ing/vitamin-d3.jpg",
@@ -564,7 +588,9 @@
 "brands": [
 "Tmrw"
 ],
-"systems": [],
+"systems": [
+"nerve"
+],
 "forms": "d-alpha tocopherol, mixed tocopherols",
 "img": "assets/ing/vitamin-e.jpg",
 "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-sunflower-vitamin-e-with-mixed-tocopherols-400-iu-90-veggie-softgels/76864?rcode=OBM3244",
@@ -581,7 +607,8 @@
 "Tmrw"
 ],
 "systems": [
-"bone"
+"bone",
+"heart"
 ],
 "forms": "Menaquinone-7 (MK-7)",
 "img": "assets/ing/vitamin-k2.jpg",
@@ -599,8 +626,8 @@
 "Tmrw"
 ],
 "systems": [
-"muscle",
-"bone"
+"bone",
+"muscle"
 ],
 "forms": "Citrate, picolinate, gluconate",
 "img": "assets/ing/zinc.jpg",
