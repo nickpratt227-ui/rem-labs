@@ -5,9 +5,7 @@
 "cat": "Longevity",
 "what": "A fatty-acid compound the body makes in small amounts.",
 "sources": "Spinach, broccoli, brussels sprouts, organ meat.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "R-ALA, racemic ALA",
 "img": "assets/ing/alpha-lipoic-acid.jpg",
@@ -39,9 +37,7 @@
 "cat": "Vitamins",
 "what": "A water-soluble B vitamin.",
 "sources": "Eggs, seeds, nuts, legumes.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "D-biotin",
 "img": "assets/ing/biotin.jpg",
@@ -55,9 +51,7 @@
 "cat": "Minerals",
 "what": "A trace element found in plant foods.",
 "sources": "Dried fruit, nuts, avocado.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone"
 ],
@@ -73,9 +67,7 @@
 "cat": "Minerals",
 "what": "The most plentiful mineral in the body; about 99% is in bones and teeth.",
 "sources": "Dairy, calcium-set tofu, almonds, leafy greens.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone",
 "muscle",
@@ -112,9 +104,7 @@
 "cat": "Vitamins",
 "what": "An essential nutrient the body uses to make acetylcholine, a nerve messenger.",
 "sources": "Eggs, meat, fish, broccoli.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve",
 "gut"
@@ -131,9 +121,7 @@
 "cat": "Minerals",
 "what": "A trace mineral, often as chromium picolinate.",
 "sources": "Whole grains, broccoli, meat.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Picolinate",
 "img": "assets/ing/chromium.jpg",
@@ -147,9 +135,7 @@
 "cat": "Minerals",
 "what": "A trace mineral.",
 "sources": "Cacao, shellfish, nuts, seeds.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve",
 "bone"
@@ -166,9 +152,7 @@
 "cat": "Longevity",
 "what": "Coenzyme Q10, found in nearly every cell, with the highest levels in the heart.",
 "sources": "Organ meat, oily fish; the body makes it.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "heart",
 "muscle"
@@ -202,9 +186,7 @@
 "cat": "Longevity",
 "what": "A plant flavonoid.",
 "sources": "Strawberries, apples, persimmons.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Capsules",
 "img": "assets/ing/fisetin.jpg",
@@ -218,9 +200,7 @@
 "cat": "Vitamins",
 "what": "A B vitamin; supplements may use methylfolate.",
 "sources": "Leafy greens, legumes, fortified bread.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve"
 ],
@@ -236,9 +216,7 @@
 "cat": "Longevity",
 "what": "The simplest amino acid and a major part of collagen.",
 "sources": "Bone broth, gelatine, meat, fish.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone",
 "nerve"
@@ -255,9 +233,7 @@
 "cat": "Minerals",
 "what": "A trace mineral the thyroid uses to make hormones.",
 "sources": "Seaweed, seafood, iodised salt, dairy.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Potassium iodide, kelp",
 "img": "assets/ing/iodine.jpg",
@@ -271,9 +247,7 @@
 "cat": "Minerals",
 "what": "A mineral. About half of the body's magnesium is in bone and most of the rest is in muscle and soft tissue.",
 "sources": "Pumpkin seeds, nuts, leafy greens, whole grains.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone",
 "muscle",
@@ -292,9 +266,7 @@
 "cat": "Longevity",
 "what": "Nicotinamide mononucleotide, a molecule the body uses to make NAD+.",
 "sources": "Small amounts in edamame, broccoli and avocado.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Capsules, powder",
 "img": "assets/ing/nmn.jpg",
@@ -322,9 +294,7 @@
 "cat": "Longevity",
 "what": "Fatty acids. DHA is a major structural fat in the brain and eyes.",
 "sources": "Oily fish, algae oil.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve",
 "heart"
@@ -341,9 +311,7 @@
 "cat": "Minerals",
 "what": "An electrolyte found mostly inside cells, with large stores in muscle.",
 "sources": "Bananas, potatoes, legumes, leafy greens.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "muscle",
 "heart",
@@ -361,9 +329,7 @@
 "cat": "Longevity",
 "what": "Pyrroloquinoline quinone, a small compound found in some foods.",
 "sources": "Kiwi fruit, parsley, green tea, natto.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "PQQ disodium salt",
 "img": "assets/ing/pqq.jpg",
@@ -377,9 +343,7 @@
 "cat": "Longevity",
 "what": "A plant flavonoid.",
 "sources": "Onions, capers, apples, berries.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Quercetin dihydrate",
 "img": "assets/ing/quercetin.jpg",
@@ -393,9 +357,7 @@
 "cat": "Longevity",
 "what": "A plant polyphenol.",
 "sources": "Red grape skins, peanuts, berries.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Trans-resveratrol",
 "img": "assets/ing/resveratrol.jpg",
@@ -409,9 +371,7 @@
 "cat": "Minerals",
 "what": "A trace mineral.",
 "sources": "Brazil nuts, seafood, eggs.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Selenomethionine, selenised yeast",
 "img": "assets/ing/selenium.jpg",
@@ -425,9 +385,7 @@
 "cat": "Longevity",
 "what": "A polyamine found in all living cells.",
 "sources": "Wheat germ, soybeans, aged cheese, mushrooms.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Wheat germ extract, spermidine HCl",
 "img": "assets/ing/spermidine.jpg",
@@ -441,9 +399,7 @@
 "cat": "Longevity",
 "what": "An amino acid found in high levels in the heart, muscles and brain.",
 "sources": "Seafood, meat; the body also makes it.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "heart",
 "muscle",
@@ -461,9 +417,7 @@
 "cat": "Vitamins",
 "what": "A fat-soluble vitamin. Supplements often use retinyl palmitate.",
 "sources": "Liver, eggs, dairy; beta-carotene in carrots and sweet potato.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Retinyl palmitate, beta-carotene",
 "img": "assets/ing/vitamin-a.jpg",
@@ -477,9 +431,7 @@
 "cat": "Vitamins",
 "what": "A water-soluble B vitamin.",
 "sources": "Whole grains, oats, legumes, pork.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve",
 "heart"
@@ -496,9 +448,7 @@
 "cat": "Vitamins",
 "what": "A water-soluble vitamin, often as methylcobalamin. Mostly found in animal foods.",
 "sources": "Eggs, dairy, meat, fish; fortified plant foods.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve"
 ],
@@ -514,9 +464,7 @@
 "cat": "Vitamins",
 "what": "A water-soluble B vitamin.",
 "sources": "Dairy, eggs, mushrooms, almonds.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [],
 "forms": "Riboflavin, riboflavin-5-phosphate",
 "img": "assets/ing/riboflavin.jpg",
@@ -530,9 +478,7 @@
 "cat": "Vitamins",
 "what": "A water-soluble B vitamin, often as pyridoxal 5-phosphate.",
 "sources": "Chickpeas, poultry, fish, potatoes, bananas.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve"
 ],
@@ -548,9 +494,7 @@
 "cat": "Vitamins",
 "what": "A water-soluble vitamin (ascorbic acid).",
 "sources": "Citrus, kiwi fruit, capsicum, berries.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone"
 ],
@@ -566,9 +510,7 @@
 "cat": "Vitamins",
 "what": "A fat-soluble vitamin (cholecalciferol). The skin makes it in sunlight.",
 "sources": "Sunlight, oily fish, eggs; vegan D3 comes from lichen or algae.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone",
 "muscle"
@@ -585,9 +527,7 @@
 "cat": "Vitamins",
 "what": "A group of fat-soluble compounds (tocopherols).",
 "sources": "Plant oils, nuts, seeds.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "nerve"
 ],
@@ -603,9 +543,7 @@
 "cat": "Vitamins",
 "what": "A fat-soluble vitamin, often as menaquinone-7 (MK-7).",
 "sources": "Natto, cheese, egg yolk.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone",
 "heart"
@@ -622,9 +560,7 @@
 "cat": "Minerals",
 "what": "A trace mineral, mostly held in muscle and bone.",
 "sources": "Oysters, meat, seeds, legumes.",
-"brands": [
-"Tmrw"
-],
+"brands": [],
 "systems": [
 "bone",
 "muscle"

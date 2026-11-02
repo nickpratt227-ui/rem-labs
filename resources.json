@@ -1,1 +1,85 @@
-{"brand_picks": [{"id": "tmrw-longevity", "brand": "Tmrw", "name": "Longevity Powder", "blurb": "A daily powder blend from Tmrw. See the brand page for ingredients and directions.", "official_url": "https://drinktmrw.com/en-au/products/longevity-powder", "aff_url": ""}], "sections": [{"key": "vitamins", "title": "Vitamins", "img": "assets/res/vitamins.jpg", "intro": "The everyday basics people often ask about.", "items": [{"id": "vit-d3", "name": "Vitamin D3", "blurb": "Cholecalciferol softgels, 2,000 IU each.", "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-softgels/77548?rcode=OBM3244", "aff_url": ""}, {"id": "omega3", "name": "Omega-3 fish oil", "blurb": "Fish oil softgels listing EPA and DHA per serve.", "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=OBM3244", "aff_url": ""}]}, {"key": "minerals", "title": "Minerals", "img": "assets/res/minerals.jpg", "intro": "Unrefined salts and magnesium.", "items": [{"id": "baja-gold", "name": "Baja Gold mineral sea salt", "blurb": "Unrefined sea salt from the Sea of Cortez. Not iodised.", "iherb_url": "https://au.iherb.com/pr/baja-gold-salt-co-mineral-sea-salt-natural-grain-1-lb-454-g/150723?rcode=OBM3244", "aff_url": ""}, {"id": "celtic", "name": "Celtic sea salt, light grey", "blurb": "Moist, coarse unrefined French sea salt. Not iodised.", "iherb_url": "https://au.iherb.com/pr/celtic-sea-salt-light-grey-celtic-vital-mineral-blend-1-lb-454-g/40555?rcode=OBM3244", "aff_url": ""}, {"id": "mag-gly", "name": "Magnesium glycinate", "blurb": "Magnesium bound to glycine, in veggie capsules.", "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133-mg-per-capsule/129685?rcode=OBM3244", "aff_url": ""}]}, {"key": "longevity", "title": "Longevity", "img": "assets/res/longevity.jpg", "intro": "Ingredients often discussed in longevity circles.", "items": [{"id": "nmn", "name": "NMN", "blurb": "Beta-nicotinamide mononucleotide, 175 mg capsules.", "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-nmn-175-mg-180-veggie-capsules/126768?rcode=OBM3244", "aff_url": ""}, {"id": "nr", "name": "NR (nicotinamide riboside)", "blurb": "Nicotinamide riboside tartrate, 250 mg capsules.", "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-nicotinamide-riboside-tartrate-nrt-250-mg-60-veggie-capsules/145870?rcode=OBM3244", "aff_url": ""}, {"id": "creatine", "name": "Creatine monohydrate", "blurb": "Unflavoured powder, 5 g per scoop.", "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-sport-pure-creatine-monohydrate-unflavored-1-lb-454-g/71026?rcode=OBM3244", "aff_url": ""}]}]}
+{
+ "brand_picks": [],
+ "sections": [
+  {
+   "key": "vitamins",
+   "title": "Vitamins",
+   "img": "assets/res/vitamins.jpg",
+   "intro": "The everyday basics people often ask about.",
+   "items": [
+    {
+     "id": "vit-d3",
+     "name": "Vitamin D3",
+     "blurb": "Cholecalciferol softgels, 2,000 IU each.",
+     "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-softgels/77548?rcode=OBM3244",
+     "aff_url": ""
+    },
+    {
+     "id": "omega3",
+     "name": "Omega-3 fish oil",
+     "blurb": "Fish oil softgels listing EPA and DHA per serve.",
+     "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118?rcode=OBM3244",
+     "aff_url": ""
+    }
+   ]
+  },
+  {
+   "key": "minerals",
+   "title": "Minerals",
+   "img": "assets/res/minerals.jpg",
+   "intro": "Unrefined salts and magnesium.",
+   "items": [
+    {
+     "id": "baja-gold",
+     "name": "Baja Gold mineral sea salt",
+     "blurb": "Unrefined sea salt from the Sea of Cortez. Not iodised.",
+     "iherb_url": "https://au.iherb.com/pr/baja-gold-salt-co-mineral-sea-salt-natural-grain-1-lb-454-g/150723?rcode=OBM3244",
+     "aff_url": ""
+    },
+    {
+     "id": "celtic",
+     "name": "Celtic sea salt, light grey",
+     "blurb": "Moist, coarse unrefined French sea salt. Not iodised.",
+     "iherb_url": "https://au.iherb.com/pr/celtic-sea-salt-light-grey-celtic-vital-mineral-blend-1-lb-454-g/40555?rcode=OBM3244",
+     "aff_url": ""
+    },
+    {
+     "id": "mag-gly",
+     "name": "Magnesium glycinate",
+     "blurb": "Magnesium bound to glycine, in veggie capsules.",
+     "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133-mg-per-capsule/129685?rcode=OBM3244",
+     "aff_url": ""
+    }
+   ]
+  },
+  {
+   "key": "longevity",
+   "title": "Longevity",
+   "img": "assets/res/longevity.jpg",
+   "intro": "Ingredients often discussed in longevity circles.",
+   "items": [
+    {
+     "id": "nmn",
+     "name": "NMN",
+     "blurb": "Beta-nicotinamide mononucleotide, 175 mg capsules.",
+     "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-nmn-175-mg-180-veggie-capsules/126768?rcode=OBM3244",
+     "aff_url": ""
+    },
+    {
+     "id": "nr",
+     "name": "NR (nicotinamide riboside)",
+     "blurb": "Nicotinamide riboside tartrate, 250 mg capsules.",
+     "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-nicotinamide-riboside-tartrate-nrt-250-mg-60-veggie-capsules/145870?rcode=OBM3244",
+     "aff_url": ""
+    },
+    {
+     "id": "creatine",
+     "name": "Creatine monohydrate",
+     "blurb": "Unflavoured powder, 5 g per scoop.",
+     "iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-sport-pure-creatine-monohydrate-unflavored-1-lb-454-g/71026?rcode=OBM3244",
+     "aff_url": ""
+    }
+   ]
+  }
+ ]
+}

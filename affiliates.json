@@ -1,152 +1,142 @@
 [
- {
-  "id": "tmrw",
-  "brand": "Tmrw",
-  "type": "Daily drink mix",
-  "blurb": "Australian brand. Powdered daily drink.",
-  "official_url": "https://drinktmrw.com/en-au/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "neuro",
-  "brand": "Neuro",
-  "type": "Functional gum and mints",
-  "blurb": "Caffeine gum and mints.",
-  "official_url": "https://neurogum.com/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "mindlabpro",
-  "brand": "Mind Lab Pro",
-  "type": "Capsule supplement",
-  "blurb": "Multi-ingredient capsule formula from the Performance Lab group.",
-  "official_url": "https://www.mindlabpro.com/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "performancelab",
-  "brand": "Performance Lab",
-  "type": "Supplement range",
-  "blurb": "Capsule supplement range, including magnesium and sleep formulas.",
-  "official_url": "https://www.performancelab.com/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "qualia",
-  "brand": "Qualia",
-  "type": "Supplement range",
-  "blurb": "Capsule supplement range from Neurohacker Collective.",
-  "official_url": "https://www.qualialife.com/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "iherb",
-  "brand": "iHerb Australia",
-  "type": "Online supplement store",
-  "blurb": "Large online store shipping to Australia, including creatine and magnesium products.",
-  "official_url": "https://au.iherb.com/?rcode=OBM3244",
-  "url_check": "403 (site blocks automated checks; not a 404)",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "speediance",
-  "brand": "Speediance",
-  "type": "Smart home gym",
-  "blurb": "Compact smart strength-training machine, sold in Australia. We use one ourselves.",
-  "official_url": "https://speediance.com.au/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "blockbluelight",
-  "brand": "Block Blue Light",
-  "type": "Sleep-friendly lighting",
-  "blurb": "Australian brand of amber lighting and blue-light glasses.",
-  "official_url": "https://www.blockbluelight.com.au/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "infraredi",
-  "brand": "Infraredi",
-  "type": "Red light devices",
-  "blurb": "Australian red light device brand.",
-  "official_url": "https://www.infraredi.com.au/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "fringe",
-  "brand": "Fringe",
-  "type": "Red light devices",
-  "blurb": "Australian red light device brand.",
-  "official_url": "https://fringeheals.com.au/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "momentous",
-  "brand": "Momentous",
-  "type": "Sports nutrition",
-  "blurb": "Sports nutrition and supplement range.",
-  "official_url": "https://www.livemomentous.com/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "onnit",
-  "brand": "Onnit",
-  "type": "Supplements and fitness gear",
-  "blurb": "Maker of Alpha Brain and fitness equipment.",
-  "official_url": "https://www.onnit.com/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "nooflux",
-  "brand": "Nooflux",
-  "type": "Supplement range",
-  "blurb": "Capsule supplement range.",
-  "official_url": "https://nooflux.com/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "suunto",
-  "brand": "Suunto",
-  "type": "Sports watches",
-  "blurb": "Finnish GPS sports watch brand.",
-  "official_url": "https://www.suunto.com/en-au/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
-  "id": "shokz",
-  "brand": "Shokz",
-  "type": "Open-ear headphones",
-  "blurb": "Bone-conduction and open-ear sports headphones.",
-  "official_url": "https://shokz.com.au/",
-  "url_check": "200",
-  "aff_url": "",
-  "affiliate_status": "pending"
- }
+  {
+    "id": "neuro",
+    "brand": "Neuro",
+    "type": "Functional gum and mints",
+    "blurb": "Caffeine gum and mints.",
+    "official_url": "https://neurogum.com/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "mindlabpro",
+    "brand": "Mind Lab Pro",
+    "type": "Capsule supplement",
+    "blurb": "Multi-ingredient capsule formula from the Performance Lab group.",
+    "official_url": "https://www.mindlabpro.com/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "performancelab",
+    "brand": "Performance Lab",
+    "type": "Supplement range",
+    "blurb": "Capsule supplement range, including magnesium and sleep formulas.",
+    "official_url": "https://www.performancelab.com/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "qualia",
+    "brand": "Qualia",
+    "type": "Supplement range",
+    "blurb": "Capsule supplement range from Neurohacker Collective.",
+    "official_url": "https://www.qualialife.com/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "iherb",
+    "brand": "iHerb Australia",
+    "type": "Online supplement store",
+    "blurb": "Large online store shipping to Australia, including creatine and magnesium products.",
+    "official_url": "https://au.iherb.com/?rcode=OBM3244",
+    "url_check": "403 (site blocks automated checks; not a 404)",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "speediance",
+    "brand": "Speediance",
+    "type": "Smart home gym",
+    "blurb": "Compact smart strength-training machine, sold in Australia. We use one ourselves.",
+    "official_url": "https://speediance.com.au/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "blockbluelight",
+    "brand": "Block Blue Light",
+    "type": "Sleep-friendly lighting",
+    "blurb": "Australian brand of amber lighting and blue-light glasses.",
+    "official_url": "https://www.blockbluelight.com.au/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "infraredi",
+    "brand": "Infraredi",
+    "type": "Red light devices",
+    "blurb": "Australian red light device brand.",
+    "official_url": "https://www.infraredi.com.au/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "fringe",
+    "brand": "Fringe",
+    "type": "Red light devices",
+    "blurb": "Australian red light device brand.",
+    "official_url": "https://fringeheals.com.au/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "momentous",
+    "brand": "Momentous",
+    "type": "Sports nutrition",
+    "blurb": "Sports nutrition and supplement range.",
+    "official_url": "https://www.livemomentous.com/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "onnit",
+    "brand": "Onnit",
+    "type": "Supplements and fitness gear",
+    "blurb": "Maker of Alpha Brain and fitness equipment.",
+    "official_url": "https://www.onnit.com/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "nooflux",
+    "brand": "Nooflux",
+    "type": "Supplement range",
+    "blurb": "Capsule supplement range.",
+    "official_url": "https://nooflux.com/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "suunto",
+    "brand": "Suunto",
+    "type": "Sports watches",
+    "blurb": "Finnish GPS sports watch brand.",
+    "official_url": "https://www.suunto.com/en-au/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  },
+  {
+    "id": "shokz",
+    "brand": "Shokz",
+    "type": "Open-ear headphones",
+    "blurb": "Bone-conduction and open-ear sports headphones.",
+    "official_url": "https://shokz.com.au/",
+    "url_check": "200",
+    "aff_url": "",
+    "affiliate_status": "pending"
+  }
 ]
