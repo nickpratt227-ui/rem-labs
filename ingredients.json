@@ -1,0 +1,663 @@
+[
+{
+"id": "alpha-lipoic-acid",
+"name": "Alpha-lipoic acid",
+"cat": "Longevity",
+"what": "A fatty-acid compound the body makes in small amounts.",
+"sources": "Spinach, broccoli, brussels sprouts, organ meat.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "R-ALA, racemic ALA",
+"img": "assets/ing/alpha-lipoic-acid.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-alpha-lipoic-acid-600-mg-120-veggie-capsules/91620",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "baja-gold-salt",
+"name": "Baja Gold mineral sea salt",
+"cat": "Minerals",
+"what": "An unrefined sea salt from the Sea of Cortez, Mexico. Mostly sodium chloride with small amounts of other minerals. Not iodised.",
+"sources": "Solar-dried sea water.",
+"brands": [],
+"systems": [
+"heart"
+],
+"forms": "Natural grain or fine grind",
+"img": "assets/ing/baja-gold-salt.jpg",
+"iherb_url": "https://au.iherb.com/pr/baja-gold-salt-co-mineral-sea-salt-natural-grain-1-lb-454-g/150723",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "biotin",
+"name": "Biotin (B7)",
+"cat": "Vitamins",
+"what": "A water-soluble B vitamin.",
+"sources": "Eggs, seeds, nuts, legumes.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "D-biotin",
+"img": "assets/ing/biotin.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-biotin-10-000-mcg-90-veggie-softgels/76865",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "boron",
+"name": "Boron",
+"cat": "Minerals",
+"what": "A trace element found in plant foods.",
+"sources": "Dried fruit, nuts, avocado.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"bone"
+],
+"forms": "Boron glycinate",
+"img": "assets/ing/boron.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-boron-3-mg-250-veg-capsules/428",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "calcium",
+"name": "Calcium",
+"cat": "Minerals",
+"what": "The most plentiful mineral in the body; about 99% is in bones and teeth.",
+"sources": "Dairy, calcium-set tofu, almonds, leafy greens.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"bone"
+],
+"forms": "Citrate, carbonate, phosphate",
+"img": "assets/ing/calcium.jpg",
+"iherb_url": "https://au.iherb.com/pr/solaray-calcium-citrate-240-vegcaps-250-mg-per-capsule/23609",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "celtic-sea-salt",
+"name": "Celtic sea salt",
+"cat": "Minerals",
+"what": "A moist, grey, unrefined sea salt from coastal France. Mostly sodium chloride. Not iodised.",
+"sources": "Hand-harvested sea water.",
+"brands": [],
+"systems": [
+"heart"
+],
+"forms": "Coarse light grey, fine ground",
+"img": "assets/ing/celtic-sea-salt.jpg",
+"iherb_url": "https://au.iherb.com/pr/celtic-sea-salt-light-grey-celtic-vital-mineral-blend-1-lb-454-g/40555",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "choline",
+"name": "Choline",
+"cat": "Vitamins",
+"what": "An essential nutrient the body uses to make acetylcholine, a nerve messenger.",
+"sources": "Eggs, meat, fish, broccoli.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"nerve"
+],
+"forms": "Choline bitartrate",
+"img": "assets/ing/choline.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-choline-inositol-100-veg-capsules/513",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "chromium",
+"name": "Chromium",
+"cat": "Minerals",
+"what": "A trace mineral, often as chromium picolinate.",
+"sources": "Whole grains, broccoli, meat.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "Picolinate",
+"img": "assets/ing/chromium.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-chromium-picolinate-200-mcg-250-veg-capsules/508",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "copper",
+"name": "Copper",
+"cat": "Minerals",
+"what": "A trace mineral.",
+"sources": "Cacao, shellfish, nuts, seeds.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "Citrate, gluconate",
+"img": "assets/ing/copper.jpg",
+"iherb_url": "https://au.iherb.com/pr/thorne-copper-bisglycinate-60-capsules-2-mg-per-capsule/52665",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "coq10",
+"name": "CoQ10",
+"cat": "Longevity",
+"what": "Coenzyme Q10, found in nearly every cell, with the highest levels in the heart.",
+"sources": "Organ meat, oily fish; the body makes it.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"heart"
+],
+"forms": "Ubiquinone, ubiquinol",
+"img": "assets/ing/coq10.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-coq10-100-mg-120-veggie-softgels/61074",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "creatine",
+"name": "Creatine",
+"cat": "Longevity",
+"what": "A compound made from amino acids. About 95% of the body's creatine is stored in skeletal muscle.",
+"sources": "Red meat, fish; the body also makes it.",
+"brands": [],
+"systems": [
+"muscle"
+],
+"forms": "Creatine monohydrate powder",
+"img": "assets/ing/creatine.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-sport-pure-creatine-monohydrate-unflavored-1-lb-454-g/71026",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "fisetin",
+"name": "Fisetin",
+"cat": "Longevity",
+"what": "A plant flavonoid.",
+"sources": "Strawberries, apples, persimmons.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [],
+"forms": "Capsules",
+"img": "assets/ing/fisetin.jpg",
+"iherb_url": "https://au.iherb.com/pr/doctor-s-best-fisetin-100-mg-30-veggie-caps/43592",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "folate",
+"name": "Folate (B9)",
+"cat": "Vitamins",
+"what": "A B vitamin; supplements may use methylfolate.",
+"sources": "Leafy greens, legumes, fortified bread.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "Folic acid, 5-MTHF (methylfolate)",
+"img": "assets/ing/folate.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-methyl-folate-and-vitamin-c-120-veggie-capsules/96310",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "glycine",
+"name": "Glycine",
+"cat": "Longevity",
+"what": "The simplest amino acid and a major part of collagen.",
+"sources": "Bone broth, gelatine, meat, fish.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [
+"bone"
+],
+"forms": "Free-form powder",
+"img": "assets/ing/glycine.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-glycine-pure-powder-1-lb-454-g/615",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "iodine",
+"name": "Iodine",
+"cat": "Minerals",
+"what": "A trace mineral the thyroid uses to make hormones.",
+"sources": "Seaweed, seafood, iodised salt, dairy.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [],
+"forms": "Potassium iodide, kelp",
+"img": "assets/ing/iodine.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-kelp-150-mcg-200-tablets/685",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "magnesium",
+"name": "Magnesium",
+"cat": "Minerals",
+"what": "A mineral. About half of the body's magnesium is in bone and most of the rest is in muscle and soft tissue.",
+"sources": "Pumpkin seeds, nuts, leafy greens, whole grains.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"bone",
+"muscle"
+],
+"forms": "Glycinate, citrate, malate, oxide",
+"img": "assets/ing/magnesium.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-magnesium-glycinate-180-veggie-capsules-133-mg-per-capsule/129685",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "nmn",
+"name": "NMN",
+"cat": "Longevity",
+"what": "Nicotinamide mononucleotide, a molecule the body uses to make NAD+.",
+"sources": "Small amounts in edamame, broccoli and avocado.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [],
+"forms": "Capsules, powder",
+"img": "assets/ing/nmn.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-nmn-175-mg-180-veggie-capsules/126768",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "nr",
+"name": "NR (nicotinamide riboside)",
+"cat": "Longevity",
+"what": "A form of vitamin B3 the body can use to make NAD+.",
+"sources": "Trace amounts in milk.",
+"brands": [],
+"systems": [],
+"forms": "Nicotinamide riboside chloride or tartrate",
+"img": "assets/ing/nr.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-nicotinamide-riboside-tartrate-nrt-250-mg-60-veggie-capsules/145870",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "omega-3",
+"name": "Omega-3 (EPA & DHA)",
+"cat": "Longevity",
+"what": "Fatty acids. DHA is a major structural fat in the brain and eyes.",
+"sources": "Oily fish, algae oil.",
+"brands": [
+"Tmrw"
+],
+"systems": [
+"nerve"
+],
+"forms": "Fish oil, krill oil, algae oil",
+"img": "assets/ing/omega-3.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-omega-3-premium-fish-oil-100-fish-gelatin-softgels-1-100-mg-per-softgel/62118",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "potassium",
+"name": "Potassium",
+"cat": "Minerals",
+"what": "An electrolyte found mostly inside cells, with large stores in muscle.",
+"sources": "Bananas, potatoes, legumes, leafy greens.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"muscle",
+"heart"
+],
+"forms": "Citrate, phosphate, chloride",
+"img": "assets/ing/potassium.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-potassium-citrate-99-mg-180-veg-capsules/13061",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "pqq",
+"name": "PQQ",
+"cat": "Longevity",
+"what": "Pyrroloquinoline quinone, a small compound found in some foods.",
+"sources": "Kiwi fruit, parsley, green tea, natto.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [],
+"forms": "PQQ disodium salt",
+"img": "assets/ing/pqq.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-pqq-20-mg-30-veggie-softgels/86595",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "quercetin",
+"name": "Quercetin",
+"cat": "Longevity",
+"what": "A plant flavonoid.",
+"sources": "Onions, capers, apples, berries.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [],
+"forms": "Quercetin dihydrate",
+"img": "assets/ing/quercetin.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-quercetin-500-mg-180-veggie-capsules/101511",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "resveratrol",
+"name": "Resveratrol",
+"cat": "Longevity",
+"what": "A plant polyphenol.",
+"sources": "Red grape skins, peanuts, berries.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [],
+"forms": "Trans-resveratrol",
+"img": "assets/ing/resveratrol.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-trans-resveratrol-200-mg-60-veggie-capsules/77938",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "selenium",
+"name": "Selenium",
+"cat": "Minerals",
+"what": "A trace mineral.",
+"sources": "Brazil nuts, seafood, eggs.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "Selenomethionine, selenised yeast",
+"img": "assets/ing/selenium.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-selenium-yeast-free-200-mcg-180-veggie-capsules/90416",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "spermidine",
+"name": "Spermidine",
+"cat": "Longevity",
+"what": "A polyamine found in all living cells.",
+"sources": "Wheat germ, soybeans, aged cheese, mushrooms.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [],
+"forms": "Wheat germ extract, spermidine HCl",
+"img": "assets/ing/spermidine.jpg",
+"iherb_url": "https://au.iherb.com/pr/prohealth-longevity-pure-spermidine-1-mg-180-capsules/148577",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "taurine",
+"name": "Taurine",
+"cat": "Longevity",
+"what": "An amino acid found in high levels in the heart, muscles and brain.",
+"sources": "Seafood, meat; the body also makes it.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [
+"heart",
+"muscle",
+"nerve"
+],
+"forms": "Free-form powder, capsules",
+"img": "assets/ing/taurine.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-taurine-1-000-mg-100-veg-capsules/15787",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "vitamin-a",
+"name": "Vitamin A",
+"cat": "Vitamins",
+"what": "A fat-soluble vitamin. Supplements often use retinyl palmitate.",
+"sources": "Liver, eggs, dairy; beta-carotene in carrots and sweet potato.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "Retinyl palmitate, beta-carotene",
+"img": "assets/ing/vitamin-a.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-vitamin-a-3-000-mcg-10-000-iu-100-softgels/11192",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "thiamin",
+"name": "Vitamin B1 (thiamin)",
+"cat": "Vitamins",
+"what": "A water-soluble B vitamin.",
+"sources": "Whole grains, oats, legumes, pork.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"nerve"
+],
+"forms": "Thiamine HCl, benfotiamine",
+"img": "assets/ing/thiamin.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-b-1-100-mg-100-tablets/403",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "vitamin-b12",
+"name": "Vitamin B12",
+"cat": "Vitamins",
+"what": "A water-soluble vitamin, often as methylcobalamin. Mostly found in animal foods.",
+"sources": "Eggs, dairy, meat, fish; fortified plant foods.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"nerve"
+],
+"forms": "Methylcobalamin, cyanocobalamin",
+"img": "assets/ing/vitamin-b12.jpg",
+"iherb_url": "https://au.iherb.com/pr/jarrow-formulas-methyl-b-12-lemon-1-000-mcg-100-chewable-tablets/129",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "riboflavin",
+"name": "Vitamin B2 (riboflavin)",
+"cat": "Vitamins",
+"what": "A water-soluble B vitamin.",
+"sources": "Dairy, eggs, mushrooms, almonds.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "Riboflavin, riboflavin-5-phosphate",
+"img": "assets/ing/riboflavin.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-b-2-100-mg-100-veg-capsules/402",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "vitamin-b6",
+"name": "Vitamin B6",
+"cat": "Vitamins",
+"what": "A water-soluble B vitamin, often as pyridoxal 5-phosphate.",
+"sources": "Chickpeas, poultry, fish, potatoes, bananas.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"nerve"
+],
+"forms": "Pyridoxine HCl, pyridoxal-5-phosphate (P5P)",
+"img": "assets/ing/vitamin-b6.jpg",
+"iherb_url": "https://au.iherb.com/pr/now-foods-p-5-p-90-veg-capsules/78096",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "vitamin-c",
+"name": "Vitamin C",
+"cat": "Vitamins",
+"what": "A water-soluble vitamin (ascorbic acid).",
+"sources": "Citrus, kiwi fruit, capsicum, berries.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "Ascorbic acid, sodium ascorbate",
+"img": "assets/ing/vitamin-c.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-gold-c-usp-grade-vitamin-c-1-000-mg-60-veggie-capsules/61864",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "vitamin-d3",
+"name": "Vitamin D3",
+"cat": "Vitamins",
+"what": "A fat-soluble vitamin (cholecalciferol). The skin makes it in sunlight.",
+"sources": "Sunlight, oily fish, eggs; vegan D3 comes from lichen or algae.",
+"brands": [
+"IM8",
+"Tmrw"
+],
+"systems": [
+"bone"
+],
+"forms": "Cholecalciferol (animal or lichen/algae source)",
+"img": "assets/ing/vitamin-d3.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-vitamin-d3-50-mcg-2-000-iu-90-fish-gelatin-softgels/77548",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "vitamin-e",
+"name": "Vitamin E",
+"cat": "Vitamins",
+"what": "A group of fat-soluble compounds (tocopherols).",
+"sources": "Plant oils, nuts, seeds.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [],
+"forms": "d-alpha tocopherol, mixed tocopherols",
+"img": "assets/ing/vitamin-e.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-sunflower-vitamin-e-with-mixed-tocopherols-400-iu-90-veggie-softgels/76864",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "vitamin-k2",
+"name": "Vitamin K2",
+"cat": "Vitamins",
+"what": "A fat-soluble vitamin, often as menaquinone-7 (MK-7).",
+"sources": "Natto, cheese, egg yolk.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"bone"
+],
+"forms": "Menaquinone-7 (MK-7)",
+"img": "assets/ing/vitamin-k2.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-vitamin-k2-as-menaquinone-7-50-mcg-120-veggie-softgels/96264",
+"iherb_kind": "product",
+"aff_url": ""
+},
+{
+"id": "zinc",
+"name": "Zinc",
+"cat": "Minerals",
+"what": "A trace mineral, mostly held in muscle and bone.",
+"sources": "Oysters, meat, seeds, legumes.",
+"brands": [
+"IM8",
+"Tmrw",
+"AG1"
+],
+"systems": [
+"muscle",
+"bone"
+],
+"forms": "Citrate, picolinate, gluconate",
+"img": "assets/ing/zinc.jpg",
+"iherb_url": "https://au.iherb.com/pr/california-gold-nutrition-zinc-picolinate-50-mg-120-veggie-capsules/91976",
+"iherb_kind": "product",
+"aff_url": ""
+}
+]
