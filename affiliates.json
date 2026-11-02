@@ -50,16 +50,6 @@
   "affiliate_status": "pending"
  },
  {
-  "id": "ag1",
-  "brand": "AG1",
-  "type": "Daily powdered drink",
-  "blurb": "Powdered daily drink, ships to Australia.",
-  "official_url": "https://drinkag1.com/en-au",
-  "url_check": "429 (site rate-limits automated checks; not a 404)",
-  "aff_url": "",
-  "affiliate_status": "pending"
- },
- {
   "id": "iherb",
   "brand": "iHerb Australia",
   "type": "Online supplement store",
