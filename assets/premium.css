@@ -31,3 +31,5 @@ footer a{color:#c9ccca!important;text-decoration:none}
 .r{transform:translateY(24px)!important}.r.in{transform:none!important}
 img{image-rendering:auto}
 @media(max-width:720px){h1{font-size:clamp(2.6rem,12vw,4rem)!important}section{padding:88px 6vw!important}.nav img{height:52px!important}}
+.heroshot{display:block;width:min(520px,82vw);margin:64px auto 0;border-radius:24px;overflow:hidden;background:#fff;border:1px solid var(--line);box-shadow:0 40px 80px -40px rgba(0,0,0,.25);transition:transform .5s cubic-bezier(.2,.7,.2,1)}.heroshot:hover{transform:translateY(-4px)}.heroshot img{display:block;width:100%;height:auto}
+.band{box-shadow:0 20px 50px rgba(0,0,0,.45)!important;opacity:.9}
