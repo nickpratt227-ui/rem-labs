@@ -29,7 +29,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B18",
@@ -62,7 +63,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B09",
@@ -95,7 +97,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B07",
@@ -127,7 +130,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B03",
@@ -160,7 +164,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B25",
@@ -193,7 +198,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B27",
@@ -226,7 +232,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B24",
@@ -258,7 +265,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B01",
@@ -290,7 +298,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B02",
@@ -322,7 +331,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B28",
@@ -355,7 +365,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B29",
@@ -388,7 +399,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "S03",
@@ -417,7 +429,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "Z01",
@@ -446,7 +459,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "Z02",
@@ -475,7 +489,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B16",
@@ -508,7 +523,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B17",
@@ -541,7 +557,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B08",
@@ -573,7 +590,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B10",
@@ -605,7 +623,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B15",
@@ -637,7 +656,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B19",
@@ -669,7 +689,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B21",
@@ -701,7 +722,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "S02",
@@ -718,19 +740,75 @@
    "status": "pending_account_approval",
    "last_synced": null
   },
-  "images": [],
+  "images": [
+   {
+    "src": "assets/products/s02/5.jpg",
+    "alt": "Bluetooth glass body-composition bathroom scale"
+   },
+   {
+    "src": "assets/products/s02/6.jpg",
+    "alt": "Bluetooth glass body-composition bathroom scale"
+   },
+   {
+    "src": "assets/products/s02/4.jpg",
+    "alt": "Bluetooth glass body-composition bathroom scale"
+   },
+   {
+    "src": "assets/products/s02/8.jpg",
+    "alt": "Bluetooth glass body-composition bathroom scale"
+   },
+   {
+    "src": "assets/products/s02/3.jpg",
+    "alt": "Bluetooth glass body-composition bathroom scale"
+   }
+  ],
   "about": {
-   "overview": "",
-   "features": [],
-   "specs": {},
-   "in_the_box": [],
+   "overview": "A slim tempered-glass bathroom scale with Bluetooth that sends readings to a companion phone app. Readings are estimates for general trend tracking, not medical measurements.",
+   "features": [
+    "Bluetooth 4.0 connection to iOS and Android",
+    "12 readings per weigh-in shown in the app",
+    "Auto power-off",
+    "Low-battery and overload indicator",
+    "Battery operated"
+   ],
+   "specs": {
+    "Platform material": "Glass",
+    "Capacity": "5 kg – 180 kg",
+    "Weight division": "100 g",
+    "Body fat / water / muscle division": "0.1%",
+    "Bone division": "0.1 kg",
+    "Units": "kg / st / lb",
+    "Size": "300 × 260 × 28 mm",
+    "Net weight": "1.50 kg",
+    "Power": "2 × AAA batteries (included)",
+    "Colour": "Black",
+    "Connectivity": "Bluetooth 4.0"
+   },
+   "in_the_box": [
+    "1 × Bluetooth bathroom scale",
+    "2 × AAA batteries",
+    "1 × measuring tape",
+    "1 × English user manual"
+   ],
    "care": []
   },
   "variants": {
-   "colours": [],
+   "colours": [
+    {
+     "name": "Black",
+     "hex": "#151515"
+    }
+   ],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "sourced_candidate",
+  "source": {
+   "name": "DropshipOnly (AU dropship supplier)",
+   "url": "https://dropshiponly.com.au/product/wireless-digital-bathroom-body-fat-scale-bluetooth-scales-180kg-weight-bmi-water/",
+   "retrieved": "2026-11-03",
+   "supplier_product_id": 12068,
+   "note": "Candidate equivalent pending Dropshipzone approval. Confirm image-use permission with supplier before going live."
+  }
  },
  {
   "sku": "S04",
@@ -759,7 +837,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B06",
@@ -791,7 +870,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B22",
@@ -823,7 +903,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B13",
@@ -855,7 +936,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "B20",
@@ -887,7 +969,8 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  },
  {
   "sku": "R02",
@@ -904,19 +987,46 @@
    "status": "pending_account_approval",
    "last_synced": null
   },
-  "images": [],
+  "images": [
+   {
+    "src": "assets/products/r02/1.jpg",
+    "alt": "Acupressure mat and pillow with carry bag"
+   },
+   {
+    "src": "assets/products/r02/2.jpg",
+    "alt": "Acupressure mat and pillow set, orange"
+   }
+  ],
   "about": {
-   "overview": "",
-   "features": [],
-   "specs": {},
-   "in_the_box": [],
+   "overview": "A full-length spiked mat and matching neck pillow for lying on during wind-down time.",
+   "features": [
+    "230 spike pads on the mat, 66 on the pillow",
+    "27 ABS plastic points per pad"
+   ],
+   "specs": {
+    "Materials": "Cotton, PVC, sponge",
+    "Mat size": "67 × 42 × 2 cm",
+    "Pillow size": "37 × 15 × 10 cm",
+    "Spike pads": "296 total (230 mat + 66 pillow)",
+    "Points per pad": "27 (ABS plastic)"
+   },
+   "in_the_box": [
+    "1 × acupressure mat",
+    "1 × acupressure pillow"
+   ],
    "care": []
   },
   "variants": {
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "sourced_candidate",
+  "source": {
+   "name": "Ship To The Moon (global dropship supplier)",
+   "url": "https://www.shiptothemoon.com/dropshipping-product/acupressure-mat-pillow-set-dropshipping/",
+   "retrieved": "2026-11-03",
+   "note": "Ships from overseas, not an AU warehouse. Colour may vary with stock per supplier. Confirm image-use permission and AU shipping before going live."
+  }
  },
  {
   "sku": "Z03",
@@ -945,6 +1055,7 @@
    "colours": [],
    "materials": []
   },
-  "info_status": "awaiting_supplier_data"
+  "info_status": "no_reseller_source_found",
+  "source": null
  }
 ]
