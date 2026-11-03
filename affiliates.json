@@ -138,5 +138,29 @@
     "url_check": "200",
     "aff_url": "",
     "affiliate_status": "pending"
+  },
+  {
+    "id": "eightsleep",
+    "brand": "Eight Sleep",
+    "type": "Sleep tech",
+    "official_url": "https://www.eightsleep.com/au/product/pod-cover/",
+    "aff_url": "",
+    "affiliate_status": "not applied: affiliate by request via bizdev@eightsleep.com; customer referral terms https://www.eightsleep.com/blog/terms-and-conditions-of-the-eight-sleep-referral-program/ (individuals only)"
+  },
+  {
+    "id": "oaksleep",
+    "brand": "OAK SLEEP",
+    "type": "Sleep tech",
+    "official_url": "https://www.oaksleep.com.au/products/oak-sleep-hub",
+    "aff_url": "",
+    "affiliate_status": "no public program found; ask the brand directly"
+  },
+  {
+    "id": "oura",
+    "brand": "Oura",
+    "type": "Sleep tech",
+    "official_url": "https://ouraring.com/store/rings/oura-ring-4",
+    "aff_url": "",
+    "affiliate_status": "not applied: https://oura.network/affiliate"
   }
 ]
