@@ -7,7 +7,29 @@
   "title": "QuickFit 22 Silicone Band",
   "compatible_with": "Garmin Fenix 5/6/7/8 47mm, Forerunner 935/945/955/965, Epix Gen 2, Instinct 2",
   "price_aud": 29.95,
-  "stripe_link": "https://buy.stripe.com/dRm8wP0Xz0yX9ZDckkfnO00"
+  "stripe_link": "https://buy.stripe.com/dRm8wP0Xz0yX9ZDckkfnO00",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Garmin Fenix 5/6/7/8 47mm, Forerunner 935/945/955/965, Epix Gen 2, Instinct 2"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B18",
@@ -17,7 +39,30 @@
   "title": "5-pack Elastic Solo Loop 20mm",
   "compatible_with": "Garmin/Samsung 20mm",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/6oU6oH9u5bdBefTbggfnO01"
+  "stripe_link": "https://buy.stripe.com/6oU6oH9u5bdBefTbggfnO01",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Elastic",
+    "Band width": "20 mm",
+    "Compatible with": "Garmin/Samsung 20mm"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B09",
@@ -27,7 +72,30 @@
   "title": "Nylon Loop Band 20/22mm quick release",
   "compatible_with": "Samsung Galaxy Watch 4/5/6/7/FE (20mm), Garmin Venu 2/3 (22mm), Amazfit, Huawei 20/22mm",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/6oU7sL49L4Pdgo1doofnO02"
+  "stripe_link": "https://buy.stripe.com/6oU7sL49L4Pdgo1doofnO02",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Nylon",
+    "Band width": "20/22 mm",
+    "Compatible with": "Samsung Galaxy Watch 4/5/6/7/FE (20mm), Garmin Venu 2/3 (22mm), Amazfit, Huawei 20/22mm"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B07",
@@ -37,7 +105,29 @@
   "title": "Silicone Sport Band",
   "compatible_with": "Apple Watch 41/45/46mm",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/9B614n35HdlJ3Bf2JKfnO03"
+  "stripe_link": "https://buy.stripe.com/9B614n35HdlJ3Bf2JKfnO03",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Apple Watch 41/45/46mm"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B03",
@@ -47,7 +137,30 @@
   "title": "Silicone Sport Band 3-pack 20mm",
   "compatible_with": "Garmin Forerunner 55/165/245/645, Vivoactive 3/5/6, Venu Sq/Sq2",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/dRm28r9u5chF3Bf1FGfnO04"
+  "stripe_link": "https://buy.stripe.com/dRm28r9u5chF3Bf1FGfnO04",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Band width": "20 mm",
+    "Compatible with": "Garmin Forerunner 55/165/245/645, Vivoactive 3/5/6, Venu Sq/Sq2"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B25",
@@ -57,7 +170,30 @@
   "title": "22mm Nylon Sport Loop",
   "compatible_with": "Coros Pace 3 / Pace 4 / Pace Pro / Apex Pro / Apex 2 Pro / Apex 46mm",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/3cI28rgWxa9xefT844fnO05"
+  "stripe_link": "https://buy.stripe.com/3cI28rgWxa9xefT844fnO05",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Nylon",
+    "Band width": "22 mm",
+    "Compatible with": "Coros Pace 3 / Pace 4 / Pace Pro / Apex Pro / Apex 2 Pro / Apex 46mm"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B27",
@@ -67,7 +203,30 @@
   "title": "22mm Silicone Sport Band",
   "compatible_with": "Suunto Race / Race S / Race 2 / Vertical / 9 Peak / 9 Peak Pro / 5 Peak / Ocean / Run (not Suunto 9/9 Baro, 24mm)",
   "price_aud": 29.95,
-  "stripe_link": "https://buy.stripe.com/dRm6oH49LepNb3HaccfnO06"
+  "stripe_link": "https://buy.stripe.com/dRm6oH49LepNb3HaccfnO06",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Band width": "22 mm",
+    "Compatible with": "Suunto Race / Race S / Race 2 / Vertical / 9 Peak / 9 Peak Pro / 5 Peak / Ocean / Run (not Suunto 9/9 Baro, 24mm)"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B24",
@@ -77,7 +236,29 @@
   "title": "Nylon Sport Loop",
   "compatible_with": "Apple Watch 44/45/46/49mm",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/dRm4gzay94Pd3BfessfnO07"
+  "stripe_link": "https://buy.stripe.com/dRm4gzay94Pd3BfessfnO07",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Nylon",
+    "Compatible with": "Apple Watch 44/45/46/49mm"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B01",
@@ -87,7 +268,29 @@
   "title": "Nylon Loop Band 2-pack",
   "compatible_with": "Fitbit Charge 6 / Charge 5",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/7sYaEXbCd0yX4Fj700fnO08"
+  "stripe_link": "https://buy.stripe.com/7sYaEXbCd0yX4Fj700fnO08",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Nylon",
+    "Compatible with": "Fitbit Charge 6 / Charge 5"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B02",
@@ -97,7 +300,29 @@
   "title": "Silicone Sport Band",
   "compatible_with": "Fitbit Charge 6 / Charge 5",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/cNibJ1gWxbdBdbP1FGfnO09"
+  "stripe_link": "https://buy.stripe.com/cNibJ1gWxbdBdbP1FGfnO09",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Fitbit Charge 6 / Charge 5"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B28",
@@ -107,7 +332,30 @@
   "title": "22mm Nylon Loop Band",
   "compatible_with": "Amazfit GTR 2/3/4 / GTR 47mm / Balance / Balance 2 / Bip 5 / Bip 6 / Active Max / Cheetah",
   "price_aud": 14.99,
-  "stripe_link": "https://buy.stripe.com/6oU3cveOpbdBgo12JKfnO0a"
+  "stripe_link": "https://buy.stripe.com/6oU3cveOpbdBgo12JKfnO0a",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Nylon",
+    "Band width": "22 mm",
+    "Compatible with": "Amazfit GTR 2/3/4 / GTR 47mm / Balance / Balance 2 / Bip 5 / Bip 6 / Active Max / Cheetah"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B29",
@@ -117,7 +365,30 @@
   "title": "20mm Nylon Loop Band",
   "compatible_with": "Amazfit GTS 2/3/4 / GTS 4 Mini / GTR Mini / Active / Active 2 / Bip U / Bip 3",
   "price_aud": 14.99,
-  "stripe_link": "https://buy.stripe.com/fZu5kD0Xz4Pd4Fj4RSfnO0b"
+  "stripe_link": "https://buy.stripe.com/fZu5kD0Xz4Pd4Fj4RSfnO0b",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Nylon",
+    "Band width": "20 mm",
+    "Compatible with": "Amazfit GTS 2/3/4 / GTS 4 Mini / GTR Mini / Active / Active 2 / Bip U / Bip 3"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "S03",
@@ -127,7 +398,26 @@
   "title": "8-electrode segmental body-composition smart scale with handle (arms/legs/trunk fat & muscle readouts, Bluetooth app)",
   "compatible_with": "",
   "price_aud": 99.95,
-  "stripe_link": "https://buy.stripe.com/5kQaEXfSta9x0p3988fnO0c"
+  "stripe_link": "https://buy.stripe.com/5kQaEXfSta9x0p3988fnO0c",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {},
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "Z01",
@@ -137,7 +427,26 @@
   "title": "3D contoured blackout sleep mask",
   "compatible_with": "",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/6oUaEXeOp4Pd2xbdoofnO0d"
+  "stripe_link": "https://buy.stripe.com/6oUaEXeOp4Pd2xbdoofnO0d",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {},
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "Z02",
@@ -147,7 +456,26 @@
   "title": "Mouth tape 60-pack",
   "compatible_with": "",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/eVqdR935HbdBfjX3NOfnO0e"
+  "stripe_link": "https://buy.stripe.com/eVqdR935HbdBfjX3NOfnO0e",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {},
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B16",
@@ -157,7 +485,30 @@
   "title": "18mm Silicone Band",
   "compatible_with": "Garmin Venu 2S/3S, Vivoactive 4S, Forerunner 255S/265S",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/eVq28reOpbdB9ZDfwwfnO0f"
+  "stripe_link": "https://buy.stripe.com/eVq28reOpbdB9ZDfwwfnO0f",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Band width": "18 mm",
+    "Compatible with": "Garmin Venu 2S/3S, Vivoactive 4S, Forerunner 255S/265S"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B17",
@@ -167,7 +518,30 @@
   "title": "20mm Magnetic Braided Band",
   "compatible_with": "Garmin Vivoactive 5/6, Venu Sq 2, Forerunner 165/245",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/6oUdR9fSt0yX6NrfwwfnO0g"
+  "stripe_link": "https://buy.stripe.com/6oUdR9fSt0yX6NrfwwfnO0g",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Braided nylon (magnetic clasp)",
+    "Band width": "20 mm",
+    "Compatible with": "Garmin Vivoactive 5/6, Venu Sq 2, Forerunner 165/245"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B08",
@@ -177,7 +551,29 @@
   "title": "Magnetic Braided Solo Loop",
   "compatible_with": "Apple Watch 41/45/46/49mm",
   "price_aud": 29.95,
-  "stripe_link": "https://buy.stripe.com/fZu8wP8q181p2xbbggfnO0h"
+  "stripe_link": "https://buy.stripe.com/fZu8wP8q181p2xbbggfnO0h",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Braided nylon (magnetic clasp)",
+    "Compatible with": "Apple Watch 41/45/46/49mm"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B10",
@@ -187,7 +583,29 @@
   "title": "Silicone Sport Band",
   "compatible_with": "Xiaomi Smart Band 10 / 9",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/28EdR949L95t4FjbggfnO0i"
+  "stripe_link": "https://buy.stripe.com/28EdR949L95t4FjbggfnO0i",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Xiaomi Smart Band 10 / 9"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B15",
@@ -197,7 +615,29 @@
   "title": "Silicone Band",
   "compatible_with": "Fitbit Inspire 3",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/bJe28ray981p1t7bggfnO0j"
+  "stripe_link": "https://buy.stripe.com/bJe28ray981p1t7bggfnO0j",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Fitbit Inspire 3"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B19",
@@ -207,7 +647,29 @@
   "title": "Silicone Band",
   "compatible_with": "Samsung Galaxy Fit 3",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/9B600j21D6Xlc7LckkfnO0k"
+  "stripe_link": "https://buy.stripe.com/9B600j21D6Xlc7LckkfnO0k",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Samsung Galaxy Fit 3"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B21",
@@ -217,7 +679,29 @@
   "title": "Silicone Band",
   "compatible_with": "Xiaomi Redmi Watch 5 Active",
   "price_aud": 14.95,
-  "stripe_link": "https://buy.stripe.com/8x2aEX5dPa9xb3HdoofnO0l"
+  "stripe_link": "https://buy.stripe.com/8x2aEX5dPa9xb3HdoofnO0l",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Xiaomi Redmi Watch 5 Active"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "S02",
@@ -227,7 +711,26 @@
   "title": "Basic digital/body-fat scale",
   "compatible_with": "",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/3cI8wPcGh81p6NressfnO0m"
+  "stripe_link": "https://buy.stripe.com/3cI8wPcGh81p6NressfnO0m",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {},
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "S04",
@@ -237,7 +740,26 @@
   "title": "8-electrode handle-less segmental scale (budget, VA colour display)",
   "compatible_with": "",
   "price_aud": 79.95,
-  "stripe_link": "https://buy.stripe.com/bJedR95dPa9x8VzckkfnO0n"
+  "stripe_link": "https://buy.stripe.com/bJedR95dPa9x8VzckkfnO0n",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {},
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B06",
@@ -247,7 +769,29 @@
   "title": "Sport Band with clasp",
   "compatible_with": "Whoop 4.0",
   "price_aud": 29.95,
-  "stripe_link": "https://buy.stripe.com/fZudR9cGhgxVgo1fwwfnO0o"
+  "stripe_link": "https://buy.stripe.com/fZudR9cGhgxVgo1fwwfnO0o",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Not yet confirmed",
+    "Compatible with": "Whoop 4.0"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B22",
@@ -257,7 +801,29 @@
   "title": "Knit/Nylon Band",
   "compatible_with": "Whoop 5.0 / MG",
   "price_aud": 29.95,
-  "stripe_link": "https://buy.stripe.com/5kQ7sL35H6Xl0p3844fnO0p"
+  "stripe_link": "https://buy.stripe.com/5kQ7sL35H6Xl0p3844fnO0p",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Knit/nylon",
+    "Compatible with": "Whoop 5.0 / MG"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B13",
@@ -267,7 +833,29 @@
   "title": "Silicone Band",
   "compatible_with": "Fitbit Versa 4/3, Sense 2/Sense",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/bJebJ135H1D16Nr1FGfnO0q"
+  "stripe_link": "https://buy.stripe.com/bJebJ135H1D16Nr1FGfnO0q",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Silicone",
+    "Compatible with": "Fitbit Versa 4/3, Sense 2/Sense"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "B20",
@@ -277,7 +865,29 @@
   "title": "Nylon Band",
   "compatible_with": "Amazfit Helio Strap",
   "price_aud": 24.95,
-  "stripe_link": "https://buy.stripe.com/eVq9AT0XzepN7Rv0BCfnO0r"
+  "stripe_link": "https://buy.stripe.com/eVq9AT0XzepN7Rv0BCfnO0r",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {
+    "Material (from listing)": "Nylon",
+    "Compatible with": "Amazfit Helio Strap"
+   },
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "R02",
@@ -287,7 +897,26 @@
   "title": "Acupressure mat + pillow",
   "compatible_with": "",
   "price_aud": 44.95,
-  "stripe_link": "https://buy.stripe.com/6oUaEX49LftR3Bf844fnO0s"
+  "stripe_link": "https://buy.stripe.com/6oUaEX49LftR3Bf844fnO0s",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {},
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  },
  {
   "sku": "Z03",
@@ -297,6 +926,25 @@
   "title": "Mouth tape 100-pack",
   "compatible_with": "",
   "price_aud": 19.95,
-  "stripe_link": "https://buy.stripe.com/4gM5kD0XzepNdbP3NOfnO0t"
+  "stripe_link": "https://buy.stripe.com/4gM5kD0XzepNdbP3NOfnO0t",
+  "supplier": {
+   "name": "Dropshipzone",
+   "supplier_sku": null,
+   "status": "pending_account_approval",
+   "last_synced": null
+  },
+  "images": [],
+  "about": {
+   "overview": "",
+   "features": [],
+   "specs": {},
+   "in_the_box": [],
+   "care": []
+  },
+  "variants": {
+   "colours": [],
+   "materials": []
+  },
+  "info_status": "awaiting_supplier_data"
  }
 ]
