@@ -1,7 +1,7 @@
 {
- "payments_live": false,
+ "payments_live": true,
  "stripe_portal_url": "",
- "afterpay_max_aud": 4000,
+ "afterpay_max_aud": 0,
  "zip_pay_max_aud": 1000,
  "iherb_rcode": "OBM3244"
 }
